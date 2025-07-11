@@ -1,4 +1,4 @@
-# Bash Useful Scripts 🖥️🚀
+# Bash-Magic
 
 A collection of useful Bash scripts for automation, file management, and system tasks.
 
